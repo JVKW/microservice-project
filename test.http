@@ -1,0 +1,31 @@
+### GET all products
+GET http://localhost:4001/products
+Accept: application/json
+
+###
+
+### POST create a new customer
+POST http://localhost:4003/customers
+Content-Type: application/json
+
+{
+    "name": "João Silva",
+    "email": "joao.silva@example.com"
+}
+
+###
+
+### GET all customers
+GET http://localhost:4003/customers
+Accept: application/json
+
+###
+
+### POST create a new order
+POST http://localhost:4002/orders
+Content-Type: application/json
+
+{
+    "customerId": 1,
+    "productId": 2
+}

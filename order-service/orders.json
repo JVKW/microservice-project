@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "customerId": 1,
+    "productId": 2
+  },
+  {
+    "id": 2,
+    "customerId": 1,
+    "productId": 2
+  },
+  {
+    "id": 3,
+    "customerId": 1,
+    "productId": 2
+  },
+  {
+    "id": 4,
+    "customerId": 1,
+    "productId": 2
+  },
+  {
+    "id": 5,
+    "customerId": 1,
+    "productId": 2
+  }
+]

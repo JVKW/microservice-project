@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Laptop", "price": 4500 },
+    { "id": 2, "name": "Chair", "price": 200 },
+    { "id": 3, "name": "Keyboard", "price": 250 },
+    { "id": 4, "name": "Helmet", "price": 120 },
+    { "id": 5, "name": "Table", "price": 467 },
+    { "id": 6, "name": "Mouse", "price": 120 },
+    { "id": 7, "name": "Smartphone", "price": 1200 },
+    { "id": 8, "name": "Monitor", "price": 465 },
+    { "id": 9, "name": "Guitar", "price": 2300 },
+    { "id": 10, "name": "Television", "price": 3000 }
+]
